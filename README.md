@@ -2,7 +2,7 @@
 
 Esta es una aplicación de backend construida con **Java** y **Spring Boot**, con una conexión a una base de datos en **PostgreSQL**.
 
-Consiste en crear una tabla en la BBDD y ejecutar las operaciones CRUD básicas para que luego sea consumida por una aplicación web hecha con **Angular**.
+Consiste en crear una tabla en la BBDD y ejecutar las operaciones CRUD básicas para que luego sea consumida por una [aplicación web](https://github.com/miklegonza/crud-frontend) hecha con **Angular**.
 
 ## Requerimientos
 
